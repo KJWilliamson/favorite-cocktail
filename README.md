@@ -1,5 +1,6 @@
 # favorite-cocktail
 
+# Built with HTML, CSS, and Javascript
 
 https://favorite-cocktail.netlify.app/
 
