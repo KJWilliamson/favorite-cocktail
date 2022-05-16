@@ -6,4 +6,5 @@ https://favorite-cocktail.netlify.app/
 
 
 
-![drinks](https://user-images.githubusercontent.com/24884380/168207467-93a4ac5c-b1c2-4134-bfaa-6e1bde3ce2b4.jpg)
+
+![cocktail](https://user-images.githubusercontent.com/24884380/168692175-472278e9-b683-4add-9467-e82d88a2ff88.jpg)
