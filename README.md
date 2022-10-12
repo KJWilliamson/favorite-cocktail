@@ -1,5 +1,5 @@
 ## Cocktail web app built with HTML, CSS, and Javascript.
-* The user will enter a cocktail. Get a cocktail name, photo, and instructions 
+* The user will enter a cocktail. Get a cocktail name, ideal glass to use, photo, ingredients, and instructions 
 
 https://favorite-cocktail.netlify.app/
 
